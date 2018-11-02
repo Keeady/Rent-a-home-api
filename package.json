@@ -1,0 +1,15 @@
+{
+  "name": "smart-home-rental-api",
+  "version": "1.0.0",
+  "description": "REST API for smart home rental data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camaria Bevavy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "underscore": "^1.9.1"
+  }
+}
