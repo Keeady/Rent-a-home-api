@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({ extended: false}));
 
 // Define Routes
 app.use(function(req, res, next) {
-    res.header("Access-Control-Allow-Origin", "http://localhost:4200");
+    res.header("Access-Control-Allow-Origin", process.env.RENT_A_HOME_APP);
     next();
 });
 app.use('/', routes);
