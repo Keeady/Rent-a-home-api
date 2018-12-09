@@ -11,5 +11,9 @@
   "dependencies": {
     "express": "^4.16.4",
     "underscore": "^1.9.1"
+  },
+  "engines": {
+    "node": "8.9.1",
+    "npm": "6.2.0"
   }
 }
