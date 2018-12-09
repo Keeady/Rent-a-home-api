@@ -1,0 +1,1203 @@
+{
+  "Comps:comps": {
+    "$": {
+      "xsi:schemaLocation": "http://www.zillow.com/static/xsd/Comps.xsd https://www.zillowstatic.com/vstatic/b20c067/static/xsd/Comps.xsd",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "xmlns:Comps": "http://www.zillow.com/static/xsd/Comps.xsd"
+    },
+    "request": [
+      {
+        "zpid": [
+          "241289668"
+        ],
+        "count": [
+          "5"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "text": [
+          "Request successfully processed"
+        ],
+        "code": [
+          "0"
+        ]
+      }
+    ],
+    "response": [
+      {
+        "properties": [
+          {
+            "principal": [
+              {
+                "zpid": [
+                  "241289668"
+                ],
+                "links": [
+                  {
+                    "homedetails": [
+                      "https://www.zillow.com/homedetails/12-Clarmore-Dr-APT-2B-Norwalk-CT-06850/241289668_zpid/"
+                    ],
+                    "graphsanddata": [
+                      "http://www.zillow.com/homedetails/12-Clarmore-Dr-APT-2B-Norwalk-CT-06850/241289668_zpid/#charts-and-data"
+                    ],
+                    "mapthishome": [
+                      "http://www.zillow.com/homes/241289668_zpid/"
+                    ],
+                    "comparables": [
+                      "http://www.zillow.com/homes/comps/241289668_zpid/"
+                    ]
+                  }
+                ],
+                "address": [
+                  {
+                    "street": [
+                      "12 Clarmore Dr APT 2B"
+                    ],
+                    "zipcode": [
+                      "06850"
+                    ],
+                    "city": [
+                      "Norwalk"
+                    ],
+                    "state": [
+                      "CT"
+                    ],
+                    "latitude": [
+                      "41.112659"
+                    ],
+                    "longitude": [
+                      "-73.421005"
+                    ]
+                  }
+                ],
+                "taxAssessmentYear": [
+                  "2017"
+                ],
+                "taxAssessment": [
+                  "83850.0"
+                ],
+                "yearBuilt": [
+                  "1947"
+                ],
+                "finishedSqFt": [
+                  "561"
+                ],
+                "bathrooms": [
+                  "1.0"
+                ],
+                "bedrooms": [
+                  "1"
+                ],
+                "totalRooms": [
+                  "3"
+                ],
+                "lastSoldDate": [
+                  "10/03/2005"
+                ],
+                "lastSoldPrice": [
+                  {
+                    "_": "139000",
+                    "$": {
+                      "currency": "USD"
+                    }
+                  }
+                ],
+                "zestimate": [
+                  {
+                    "amount": [
+                      {
+                        "_": "125087",
+                        "$": {
+                          "currency": "USD"
+                        }
+                      }
+                    ],
+                    "last-updated": [
+                      "03/02/2018"
+                    ],
+                    "oneWeekChange": [
+                      {
+                        "$": {
+                          "deprecated": "true"
+                        }
+                      }
+                    ],
+                    "valueChange": [
+                      {
+                        "_": "-6",
+                        "$": {
+                          "duration": "30",
+                          "currency": "USD"
+                        }
+                      }
+                    ],
+                    "valuationRange": [
+                      {
+                        "low": [
+                          {
+                            "_": "118833",
+                            "$": {
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "high": [
+                          {
+                            "_": "131341",
+                            "$": {
+                              "currency": "USD"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "percentile": [
+                      "0"
+                    ]
+                  }
+                ],
+                "localRealEstate": [
+                  {
+                    "region": [
+                      {
+                        "$": {
+                          "name": "Spring Hill",
+                          "id": "409429",
+                          "type": "neighborhood"
+                        },
+                        "links": [
+                          {
+                            "overview": [
+                              "http://www.zillow.com/local-info/CT-Norwalk/Spring-Hill/r_409429/"
+                            ],
+                            "forSaleByOwner": [
+                              "http://www.zillow.com/spring-hill-norwalk-ct/fsbo/"
+                            ],
+                            "forSale": [
+                              "http://www.zillow.com/spring-hill-norwalk-ct/"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "comparables": [
+              {
+                "comp": [
+                  {
+                    "$": {
+                      "score": "12.0"
+                    },
+                    "zpid": [
+                      "64626173"
+                    ],
+                    "links": [
+                      {
+                        "homedetails": [
+                          "https://www.zillow.com/homedetails/10-Ann-St-APT-303-Norwalk-CT-06854/64626173_zpid/"
+                        ],
+                        "graphsanddata": [
+                          "http://www.zillow.com/homedetails/10-Ann-St-APT-303-Norwalk-CT-06854/64626173_zpid/#charts-and-data"
+                        ],
+                        "mapthishome": [
+                          "http://www.zillow.com/homes/64626173_zpid/"
+                        ],
+                        "comparables": [
+                          "http://www.zillow.com/homes/comps/64626173_zpid/"
+                        ]
+                      }
+                    ],
+                    "address": [
+                      {
+                        "street": [
+                          "10 Ann St APT 303"
+                        ],
+                        "zipcode": [
+                          "06854"
+                        ],
+                        "city": [
+                          "NORWALK"
+                        ],
+                        "state": [
+                          "CT"
+                        ],
+                        "latitude": [
+                          "41.101132"
+                        ],
+                        "longitude": [
+                          "-73.418918"
+                        ]
+                      }
+                    ],
+                    "taxAssessmentYear": [
+                      "2017"
+                    ],
+                    "taxAssessment": [
+                      "159220.0"
+                    ],
+                    "yearBuilt": [
+                      "2004"
+                    ],
+                    "finishedSqFt": [
+                      "638"
+                    ],
+                    "bathrooms": [
+                      "1.0"
+                    ],
+                    "bedrooms": [
+                      "1"
+                    ],
+                    "totalRooms": [
+                      "2"
+                    ],
+                    "lastSoldDate": [
+                      "04/27/2017"
+                    ],
+                    "lastSoldPrice": [
+                      {
+                        "_": "235000",
+                        "$": {
+                          "currency": "USD"
+                        }
+                      }
+                    ],
+                    "zestimate": [
+                      {
+                        "amount": [
+                          {
+                            "_": "231817",
+                            "$": {
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "last-updated": [
+                          "03/02/2018"
+                        ],
+                        "oneWeekChange": [
+                          {
+                            "$": {
+                              "deprecated": "true"
+                            }
+                          }
+                        ],
+                        "valueChange": [
+                          {
+                            "_": "222",
+                            "$": {
+                              "duration": "30",
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "valuationRange": [
+                          {
+                            "low": [
+                              {
+                                "_": "217908",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ],
+                            "high": [
+                              {
+                                "_": "243408",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "percentile": [
+                          "16"
+                        ]
+                      }
+                    ],
+                    "rentzestimate": [
+                      {
+                        "amount": [
+                          {
+                            "_": "1650",
+                            "$": {
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "last-updated": [
+                          "02/25/2018"
+                        ],
+                        "oneWeekChange": [
+                          {
+                            "$": {
+                              "deprecated": "true"
+                            }
+                          }
+                        ],
+                        "valueChange": [
+                          {
+                            "_": "-1",
+                            "$": {
+                              "duration": "30",
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "valuationRange": [
+                          {
+                            "low": [
+                              {
+                                "_": "1403",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ],
+                            "high": [
+                              {
+                                "_": "1848",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "localRealEstate": [
+                      {
+                        "region": [
+                          {
+                            "$": {
+                              "name": "Norwalk",
+                              "id": "26222",
+                              "type": "city"
+                            },
+                            "zindexValue": [
+                              "383,400"
+                            ],
+                            "links": [
+                              {
+                                "overview": [
+                                  "http://www.zillow.com/local-info/CT-Norwalk/r_26222/"
+                                ],
+                                "forSaleByOwner": [
+                                  "http://www.zillow.com/norwalk-ct/fsbo/"
+                                ],
+                                "forSale": [
+                                  "http://www.zillow.com/norwalk-ct/"
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "score": "16.0"
+                    },
+                    "zpid": [
+                      "240538345"
+                    ],
+                    "links": [
+                      {
+                        "homedetails": [
+                          "https://www.zillow.com/homedetails/6-Rowan-St-UNIT-2-Norwalk-CT-06855/240538345_zpid/"
+                        ],
+                        "graphsanddata": [
+                          "http://www.zillow.com/homedetails/6-Rowan-St-UNIT-2-Norwalk-CT-06855/240538345_zpid/#charts-and-data"
+                        ],
+                        "mapthishome": [
+                          "http://www.zillow.com/homes/240538345_zpid/"
+                        ],
+                        "comparables": [
+                          "http://www.zillow.com/homes/comps/240538345_zpid/"
+                        ]
+                      }
+                    ],
+                    "address": [
+                      {
+                        "street": [
+                          "6 Rowan St UNIT 2"
+                        ],
+                        "zipcode": [
+                          "06855"
+                        ],
+                        "city": [
+                          "Norwalk"
+                        ],
+                        "state": [
+                          "CT"
+                        ],
+                        "latitude": [
+                          "41.102209"
+                        ],
+                        "longitude": [
+                          "-73.406956"
+                        ]
+                      }
+                    ],
+                    "taxAssessmentYear": [
+                      "2017"
+                    ],
+                    "taxAssessment": [
+                      "187620.0"
+                    ],
+                    "yearBuilt": [
+                      "1988"
+                    ],
+                    "finishedSqFt": [
+                      "968"
+                    ],
+                    "bathrooms": [
+                      "1.5"
+                    ],
+                    "bedrooms": [
+                      "2"
+                    ],
+                    "totalRooms": [
+                      "4"
+                    ],
+                    "lastSoldDate": [
+                      "06/19/2017"
+                    ],
+                    "lastSoldPrice": [
+                      {
+                        "_": "244000",
+                        "$": {
+                          "currency": "USD"
+                        }
+                      }
+                    ],
+                    "zestimate": [
+                      {
+                        "amount": [
+                          {
+                            "_": "245227",
+                            "$": {
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "last-updated": [
+                          "03/02/2018"
+                        ],
+                        "oneWeekChange": [
+                          {
+                            "$": {
+                              "deprecated": "true"
+                            }
+                          }
+                        ],
+                        "valueChange": [
+                          ""
+                        ],
+                        "valuationRange": [
+                          {
+                            "low": [
+                              {
+                                "_": "232966",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ],
+                            "high": [
+                              {
+                                "_": "257488",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "percentile": [
+                          "0"
+                        ]
+                      }
+                    ],
+                    "localRealEstate": [
+                      {
+                        "region": [
+                          {
+                            "$": {
+                              "name": "Norwalk",
+                              "id": "26222",
+                              "type": "city"
+                            },
+                            "zindexValue": [
+                              "383,400"
+                            ],
+                            "links": [
+                              {
+                                "overview": [
+                                  "http://www.zillow.com/local-info/CT-Norwalk/r_26222/"
+                                ],
+                                "forSaleByOwner": [
+                                  "http://www.zillow.com/norwalk-ct/fsbo/"
+                                ],
+                                "forSale": [
+                                  "http://www.zillow.com/norwalk-ct/"
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "score": "17.0"
+                    },
+                    "zpid": [
+                      "58817667"
+                    ],
+                    "links": [
+                      {
+                        "homedetails": [
+                          "https://www.zillow.com/homedetails/39-Rowayton-Woods-Dr-Norwalk-CT-06854/58817667_zpid/"
+                        ],
+                        "graphsanddata": [
+                          "http://www.zillow.com/homedetails/39-Rowayton-Woods-Dr-Norwalk-CT-06854/58817667_zpid/#charts-and-data"
+                        ],
+                        "mapthishome": [
+                          "http://www.zillow.com/homes/58817667_zpid/"
+                        ],
+                        "comparables": [
+                          "http://www.zillow.com/homes/comps/58817667_zpid/"
+                        ]
+                      }
+                    ],
+                    "address": [
+                      {
+                        "street": [
+                          "39 Rowayton Woods Dr"
+                        ],
+                        "zipcode": [
+                          "06854"
+                        ],
+                        "city": [
+                          "NORWALK"
+                        ],
+                        "state": [
+                          "CT"
+                        ],
+                        "latitude": [
+                          "41.081855"
+                        ],
+                        "longitude": [
+                          "-73.43603"
+                        ]
+                      }
+                    ],
+                    "taxAssessmentYear": [
+                      "2017"
+                    ],
+                    "taxAssessment": [
+                      "156940.0"
+                    ],
+                    "yearBuilt": [
+                      "1975"
+                    ],
+                    "finishedSqFt": [
+                      "751"
+                    ],
+                    "bathrooms": [
+                      "1.0"
+                    ],
+                    "bedrooms": [
+                      "1"
+                    ],
+                    "totalRooms": [
+                      "3"
+                    ],
+                    "lastSoldDate": [
+                      "08/23/2017"
+                    ],
+                    "lastSoldPrice": [
+                      {
+                        "_": "233925",
+                        "$": {
+                          "currency": "USD"
+                        }
+                      }
+                    ],
+                    "zestimate": [
+                      {
+                        "amount": [
+                          {
+                            "_": "236202",
+                            "$": {
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "last-updated": [
+                          "03/02/2018"
+                        ],
+                        "oneWeekChange": [
+                          {
+                            "$": {
+                              "deprecated": "true"
+                            }
+                          }
+                        ],
+                        "valueChange": [
+                          {
+                            "_": "196",
+                            "$": {
+                              "duration": "30",
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "valuationRange": [
+                          {
+                            "low": [
+                              {
+                                "_": "224392",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ],
+                            "high": [
+                              {
+                                "_": "248012",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "percentile": [
+                          "16"
+                        ]
+                      }
+                    ],
+                    "rentzestimate": [
+                      {
+                        "amount": [
+                          {
+                            "_": "1750",
+                            "$": {
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "last-updated": [
+                          "02/25/2018"
+                        ],
+                        "oneWeekChange": [
+                          {
+                            "$": {
+                              "deprecated": "true"
+                            }
+                          }
+                        ],
+                        "valueChange": [
+                          {
+                            "_": "-3",
+                            "$": {
+                              "duration": "30",
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "valuationRange": [
+                          {
+                            "low": [
+                              {
+                                "_": "1557",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ],
+                            "high": [
+                              {
+                                "_": "1873",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "localRealEstate": [
+                      {
+                        "region": [
+                          {
+                            "$": {
+                              "name": "Norwalk",
+                              "id": "26222",
+                              "type": "city"
+                            },
+                            "zindexValue": [
+                              "383,400"
+                            ],
+                            "links": [
+                              {
+                                "overview": [
+                                  "http://www.zillow.com/local-info/CT-Norwalk/r_26222/"
+                                ],
+                                "forSaleByOwner": [
+                                  "http://www.zillow.com/norwalk-ct/fsbo/"
+                                ],
+                                "forSale": [
+                                  "http://www.zillow.com/norwalk-ct/"
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "score": "9.0"
+                    },
+                    "zpid": [
+                      "58799205"
+                    ],
+                    "links": [
+                      {
+                        "homedetails": [
+                          "https://www.zillow.com/homedetails/131-Washington-St-APT-404-Norwalk-CT-06854/58799205_zpid/"
+                        ],
+                        "graphsanddata": [
+                          "http://www.zillow.com/homedetails/131-Washington-St-APT-404-Norwalk-CT-06854/58799205_zpid/#charts-and-data"
+                        ],
+                        "mapthishome": [
+                          "http://www.zillow.com/homes/58799205_zpid/"
+                        ],
+                        "comparables": [
+                          "http://www.zillow.com/homes/comps/58799205_zpid/"
+                        ]
+                      }
+                    ],
+                    "address": [
+                      {
+                        "street": [
+                          "131 Washington St APT 404"
+                        ],
+                        "zipcode": [
+                          "06854"
+                        ],
+                        "city": [
+                          "NORWALK"
+                        ],
+                        "state": [
+                          "CT"
+                        ],
+                        "latitude": [
+                          "41.099113"
+                        ],
+                        "longitude": [
+                          "-73.417596"
+                        ]
+                      }
+                    ],
+                    "taxAssessmentYear": [
+                      "2017"
+                    ],
+                    "taxAssessment": [
+                      "121770.0"
+                    ],
+                    "yearBuilt": [
+                      "1982"
+                    ],
+                    "finishedSqFt": [
+                      "706"
+                    ],
+                    "bathrooms": [
+                      "1.0"
+                    ],
+                    "bedrooms": [
+                      "1"
+                    ],
+                    "totalRooms": [
+                      "3"
+                    ],
+                    "lastSoldDate": [
+                      "09/28/2017"
+                    ],
+                    "lastSoldPrice": [
+                      {
+                        "_": "189000",
+                        "$": {
+                          "currency": "USD"
+                        }
+                      }
+                    ],
+                    "zestimate": [
+                      {
+                        "amount": [
+                          {
+                            "_": "189003",
+                            "$": {
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "last-updated": [
+                          "03/02/2018"
+                        ],
+                        "oneWeekChange": [
+                          {
+                            "$": {
+                              "deprecated": "true"
+                            }
+                          }
+                        ],
+                        "valueChange": [
+                          {
+                            "_": "-283",
+                            "$": {
+                              "duration": "30",
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "valuationRange": [
+                          {
+                            "low": [
+                              {
+                                "_": "175773",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ],
+                            "high": [
+                              {
+                                "_": "198453",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "percentile": [
+                          "7"
+                        ]
+                      }
+                    ],
+                    "rentzestimate": [
+                      {
+                        "amount": [
+                          {
+                            "_": "1599",
+                            "$": {
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "last-updated": [
+                          "02/25/2018"
+                        ],
+                        "oneWeekChange": [
+                          {
+                            "$": {
+                              "deprecated": "true"
+                            }
+                          }
+                        ],
+                        "valueChange": [
+                          {
+                            "_": "-6",
+                            "$": {
+                              "duration": "30",
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "valuationRange": [
+                          {
+                            "low": [
+                              {
+                                "_": "1407",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ],
+                            "high": [
+                              {
+                                "_": "1743",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "localRealEstate": [
+                      {
+                        "region": [
+                          {
+                            "$": {
+                              "name": "Norwalk",
+                              "id": "26222",
+                              "type": "city"
+                            },
+                            "zindexValue": [
+                              "383,400"
+                            ],
+                            "links": [
+                              {
+                                "overview": [
+                                  "http://www.zillow.com/local-info/CT-Norwalk/r_26222/"
+                                ],
+                                "forSaleByOwner": [
+                                  "http://www.zillow.com/norwalk-ct/fsbo/"
+                                ],
+                                "forSale": [
+                                  "http://www.zillow.com/norwalk-ct/"
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "score": "13.0"
+                    },
+                    "zpid": [
+                      "58799817"
+                    ],
+                    "links": [
+                      {
+                        "homedetails": [
+                          "https://www.zillow.com/homedetails/126-Washington-St-APT-106-Norwalk-CT-06854/58799817_zpid/"
+                        ],
+                        "graphsanddata": [
+                          "http://www.zillow.com/homedetails/126-Washington-St-APT-106-Norwalk-CT-06854/58799817_zpid/#charts-and-data"
+                        ],
+                        "mapthishome": [
+                          "http://www.zillow.com/homes/58799817_zpid/"
+                        ],
+                        "comparables": [
+                          "http://www.zillow.com/homes/comps/58799817_zpid/"
+                        ]
+                      }
+                    ],
+                    "address": [
+                      {
+                        "street": [
+                          "126 Washington St APT 106"
+                        ],
+                        "zipcode": [
+                          "06854"
+                        ],
+                        "city": [
+                          "NORWALK"
+                        ],
+                        "state": [
+                          "CT"
+                        ],
+                        "latitude": [
+                          "41.098837"
+                        ],
+                        "longitude": [
+                          "-73.41755"
+                        ]
+                      }
+                    ],
+                    "taxAssessmentYear": [
+                      "2017"
+                    ],
+                    "taxAssessment": [
+                      "141710.0"
+                    ],
+                    "yearBuilt": [
+                      "1982"
+                    ],
+                    "finishedSqFt": [
+                      "786"
+                    ],
+                    "bathrooms": [
+                      "1.0"
+                    ],
+                    "bedrooms": [
+                      "1"
+                    ],
+                    "totalRooms": [
+                      "4"
+                    ],
+                    "lastSoldDate": [
+                      "09/12/2017"
+                    ],
+                    "lastSoldPrice": [
+                      {
+                        "_": "249500",
+                        "$": {
+                          "currency": "USD"
+                        }
+                      }
+                    ],
+                    "zestimate": [
+                      {
+                        "amount": [
+                          {
+                            "_": "247695",
+                            "$": {
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "last-updated": [
+                          "03/02/2018"
+                        ],
+                        "oneWeekChange": [
+                          {
+                            "$": {
+                              "deprecated": "true"
+                            }
+                          }
+                        ],
+                        "valueChange": [
+                          {
+                            "_": "-2280",
+                            "$": {
+                              "duration": "30",
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "valuationRange": [
+                          {
+                            "low": [
+                              {
+                                "_": "235310",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ],
+                            "high": [
+                              {
+                                "_": "260080",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "percentile": [
+                          "18"
+                        ]
+                      }
+                    ],
+                    "rentzestimate": [
+                      {
+                        "amount": [
+                          {
+                            "_": "1800",
+                            "$": {
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "last-updated": [
+                          "02/25/2018"
+                        ],
+                        "oneWeekChange": [
+                          {
+                            "$": {
+                              "deprecated": "true"
+                            }
+                          }
+                        ],
+                        "valueChange": [
+                          {
+                            "_": "25",
+                            "$": {
+                              "duration": "30",
+                              "currency": "USD"
+                            }
+                          }
+                        ],
+                        "valuationRange": [
+                          {
+                            "low": [
+                              {
+                                "_": "1512",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ],
+                            "high": [
+                              {
+                                "_": "1998",
+                                "$": {
+                                  "currency": "USD"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "localRealEstate": [
+                      {
+                        "region": [
+                          {
+                            "$": {
+                              "name": "Norwalk",
+                              "id": "26222",
+                              "type": "city"
+                            },
+                            "zindexValue": [
+                              "383,400"
+                            ],
+                            "links": [
+                              {
+                                "overview": [
+                                  "http://www.zillow.com/local-info/CT-Norwalk/r_26222/"
+                                ],
+                                "forSaleByOwner": [
+                                  "http://www.zillow.com/norwalk-ct/fsbo/"
+                                ],
+                                "forSale": [
+                                  "http://www.zillow.com/norwalk-ct/"
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Comps:comps": {
+    "$": {
+      "xsi:schemaLocation": "http://www.zillow.com/static/xsd/Comps.xsd https://www.zillowstatic.com/vstatic/b20c067/static/xsd/Comps.xsd",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "xmlns:Comps": "http://www.zillow.com/static/xsd/Comps.xsd"
+    },
+    "request": [
+      {
+        "zpid": [
+          "undefined"
+        ],
+        "count": [
+          "5"
+        ]
+      }
+    ],
+    "message": [
+      {
+        "text": [
+          "Error: invalid or missing zpid parameter"
+        ],
+        "code": [
+          "500"
+        ]
+      }
+    ]
+  }
+}
