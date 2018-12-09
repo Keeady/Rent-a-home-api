@@ -1,6 +1,6 @@
 const _ = require('underscore');
-var data = require(__dirname + '/server/deep-search.json');
-var data2 = require(__dirname + '/server/comparables_25.json');
+var data = require( '/server/deep-search.json');
+var data2 = require( '/server/comparables_25.json');
 
 function Client () {
     this.API_KEY = 'X1-ZWz19ky5hwa3nv_305s0';
